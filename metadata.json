@@ -1,0 +1,6 @@
+{
+  "name": "Taher Real Estate Backend",
+  "description": "Backend database schema, API routes, and authentication templates for Taher Real Estate Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
